@@ -28,3 +28,8 @@ sort(nums.begin(),nums.end());
 ```c++
 nums.front();
 ```
+
+- 获取vector数组nums第一个元素：
+```c++
+nums.front();
+```
