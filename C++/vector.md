@@ -29,7 +29,7 @@ sort(nums.begin(),nums.end());
 nums.front();
 ```
 
-- 获取vector数组nums第一个元素：
+- 获取vector数组nums最后一个元素：
 ```c++
 nums.front();
 ```
