@@ -31,5 +31,5 @@ nums.front();
 
 - 获取vector数组nums最后一个元素：
 ```c++
-nums.front();
+nums.back();
 ```
