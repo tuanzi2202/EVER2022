@@ -23,3 +23,8 @@ nums.insert(nums.begin(),1); // 往开始位置插入元素1
 ```c++
 sort(nums.begin(),nums.end());
 ```
+
+- 获取vector数组nums第一个元素：
+```c++
+nums.front();
+```
