@@ -12,4 +12,4 @@ nums.push_back(1); // 末尾添加元素1
 nums.insert(nums.begin(),1); // 往开始位置插入元素1
 
 对vector数组nums进行升序排序：
-sort(nums.begin(),);
+sort(nums.begin(),nums.end());
