@@ -33,3 +33,12 @@ nums.front();
 ```c++
 nums.back();
 ```
+
+- 获取vector<vector<int>>数组nums行列数：
+```c++
+nums.size(); // 行数
+nums[0].size(); // 第一列列数
+nums[1].size(); // 第二列列数
+....
+```
+
